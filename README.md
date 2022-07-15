@@ -15,7 +15,7 @@ Shelter - это сайт приюта для животных, состоящи
      - пагинация
      - попап
 
-<kbd>![screenshot](images/shelter-demo.jpg)</kbd>
+<kbd>![screenshot](images/shelter-demo.png)</kbd>
 
 [Макет Shelter. Figma](https://www.figma.com/file/tKcmzkARtMUFQAR9VLdLkl/shelter-dom)
 
